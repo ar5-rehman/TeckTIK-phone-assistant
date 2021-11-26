@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TecTlk</string>
+    <string name="aar_save">Save</string>
+    <string name="aar_paused">Paused</string>
+    <string name="aar_recording">Recording</string>
+    <string name="aar_playing">Playing</string>
+    <string name="base_url">https://maps.googleapis.com</string>
+    <string name="api_map_key">AIzaSyDneY12tPYvRBYx0hOFnmyhAYJA3vXF0PI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Search Activity -->
+    <string name="search_artists_edittext_hint">Search artists here . . .</string>
+
+    <!-- top 10 track activity -->
+    <string name="title_activity_top_ten_tracks">Top 10 Tracks</string>
+
+    <!-- for preference -->
+    <string name="action_settings">Settings</string>
+    <string name="user_type_key">user_type</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_track_video">TrackVideoActivity</string>
+    <string name="title_activity_youtube">YoutubeActivity</string>
+
+    <string name="search">Search</string>
+    <string name="failed">Failed to initialize Youtube Player</string>
+</resources>
